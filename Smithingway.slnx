@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Smithingway.Server/Smithingway.Server.csproj" />
+  <Project Path="Smithingway/Smithingway.csproj" />
+</Solution>

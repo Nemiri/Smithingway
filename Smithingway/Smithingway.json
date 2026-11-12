@@ -1,0 +1,8 @@
+{
+  "Author": "Nemiri",
+  "Name": "Smithingway",
+  "Punchline": "Allows renaming items.",
+  "Description": "Rename any item (except housing items) and add flavor text to its tooltip. You can also share your renamed items with other players through chat links or trading. This plugin is intended for roleplay purposes, and it does not change the actual item name or stats.",
+  "ApplicableVersion": "any",
+  "Tags": ["items", "gear", "tooltip", "chat", "roleplay"]
+}

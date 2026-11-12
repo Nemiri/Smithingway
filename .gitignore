@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+server-data/
+dist/
+*.db
+*.db-shm
+*.db-wal
+scripts/
