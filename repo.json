@@ -1,0 +1,32 @@
+[
+    {
+        "Author":  "Nemiri",
+        "Name":  "Smithingway",
+        "InternalName":  "Smithingway",
+        "AssemblyVersion":  "0.1.0.3",
+        "Description":  "Rename any item (except housing items) and add flavor text to its tooltip. You can also share your renamed items with other players through chat links or trading. This plugin is intended for roleplay purposes, and it does not change the actual item name or stats.",
+        "ApplicableVersion":  "any",
+        "Tags":  [
+                     "items",
+                     "gear",
+                     "tooltip",
+                     "chat",
+                     "roleplay"
+                 ],
+        "DalamudApiLevel":  15,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "Allows renaming items.",
+        "AcceptsFeedback":  true,
+        "RepoUrl":  "https://github.com/Nemiri/Smithingway",
+        "DownloadLinkInstall":  "https://github.com/Nemiri/Smithingway/releases/download/v0.1.0.3/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/Nemiri/Smithingway/releases/download/v0.1.0.3/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/Nemiri/Smithingway/releases/download/v0.1.0.3/latest.zip",
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "DownloadCount":  0,
+        "LastUpdate":  1794446238
+    }
+]
